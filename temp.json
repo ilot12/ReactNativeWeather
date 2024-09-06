@@ -1,0 +1,660 @@
+{
+  "city": {
+    "coord": {
+      "lat": 37.5509,
+      "lon": 126.939
+    },
+    "country": "KR",
+    "id": 1837055,
+    "name": "Yongsan",
+    "population": 0,
+    "sunrise": 1725570406,
+    "sunset": 1725616493,
+    "timezone": 32400
+  },
+  "cnt": 40,
+  "cod": "200",
+  "list": [
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725624000,
+      "dt_txt": "2024-09-06 12:00:00",
+      "main": [Object
+      ],
+      "pop": 0.03,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725634800,
+      "dt_txt": "2024-09-06 15:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725645600,
+      "dt_txt": "2024-09-06 18:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725656400,
+      "dt_txt": "2024-09-06 21:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725667200,
+      "dt_txt": "2024-09-07 00:00:00",
+      "main": [Object
+      ],
+      "pop": 0.02,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725678000,
+      "dt_txt": "2024-09-07 03:00:00",
+      "main": [Object
+      ],
+      "pop": 0.01,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725688800,
+      "dt_txt": "2024-09-07 06:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725699600,
+      "dt_txt": "2024-09-07 09:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725710400,
+      "dt_txt": "2024-09-07 12:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725721200,
+      "dt_txt": "2024-09-07 15:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725732000,
+      "dt_txt": "2024-09-07 18:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725742800,
+      "dt_txt": "2024-09-07 21:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725753600,
+      "dt_txt": "2024-09-08 00:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725764400,
+      "dt_txt": "2024-09-08 03:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725775200,
+      "dt_txt": "2024-09-08 06:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725786000,
+      "dt_txt": "2024-09-08 09:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725796800,
+      "dt_txt": "2024-09-08 12:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725807600,
+      "dt_txt": "2024-09-08 15:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725818400,
+      "dt_txt": "2024-09-08 18:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725829200,
+      "dt_txt": "2024-09-08 21:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725840000,
+      "dt_txt": "2024-09-09 00:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725850800,
+      "dt_txt": "2024-09-09 03:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725861600,
+      "dt_txt": "2024-09-09 06:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725872400,
+      "dt_txt": "2024-09-09 09:00:00",
+      "main": [Object
+      ],
+      "pop": 0.04,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725883200,
+      "dt_txt": "2024-09-09 12:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725894000,
+      "dt_txt": "2024-09-09 15:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725904800,
+      "dt_txt": "2024-09-09 18:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725915600,
+      "dt_txt": "2024-09-09 21:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725926400,
+      "dt_txt": "2024-09-10 00:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725937200,
+      "dt_txt": "2024-09-10 03:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725948000,
+      "dt_txt": "2024-09-10 06:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725958800,
+      "dt_txt": "2024-09-10 09:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725969600,
+      "dt_txt": "2024-09-10 12:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725980400,
+      "dt_txt": "2024-09-10 15:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1725991200,
+      "dt_txt": "2024-09-10 18:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1726002000,
+      "dt_txt": "2024-09-10 21:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1726012800,
+      "dt_txt": "2024-09-11 00:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1726023600,
+      "dt_txt": "2024-09-11 03:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1726034400,
+      "dt_txt": "2024-09-11 06:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    },
+    {
+      "clouds": [Object
+      ],
+      "dt": 1726045200,
+      "dt_txt": "2024-09-11 09:00:00",
+      "main": [Object
+      ],
+      "pop": 0,
+      "sys": [Object
+      ],
+      "visibility": 10000,
+      "weather": [Array
+      ],
+      "wind": [Object
+      ]
+    }
+  ],
+  "message": 0
+}
